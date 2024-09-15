@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwinkumar</h1>
-<h3 align="center">A Machine Learning Enthusiast from India</h3>
+<h3 align="center"> CS Grad Stuent at NCSU </h3>
 
 - 🔭 I’m currently working on **Hypergraph Neural Networks**
 
-- 🌱 I’m currently learning **Deep learning,Data Visualization and cloud technologies**
+- 🌱 I’m currently learning **Deep learning, Data Visualization, and cloud technologies**
 
 - 📫 How to reach me **amanick@ncsu.edu**
 
