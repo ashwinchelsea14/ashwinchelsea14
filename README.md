@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep learning,Data Visualization and cloud technologies**
 
-- 📫 How to reach me **ashwinchelsea14@gmail.com**
+- 📫 How to reach me **amanick@ncsu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
